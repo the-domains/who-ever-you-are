@@ -10,7 +10,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.598591688554734
 color:
   saturation: 0.6084942526649684
   brandStrength: 0.1579777924343944
@@ -22,5 +21,6 @@ color:
     - '#E27A3F'
     - '#DF5A49'
   lightness: 0.2881656317040324
+typography_spectrum: 0.5674536
 layout_spectrum: 1
 name: Who Ever You Are
