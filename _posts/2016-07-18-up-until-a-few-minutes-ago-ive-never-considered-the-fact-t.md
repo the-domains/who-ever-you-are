@@ -1,22 +1,21 @@
 ---
-datePublished: '2016-07-18T18:49:43.032Z'
+datePublished: '2016-07-18T18:51:17.544Z'
 sourcePath: >-
   _posts/2016-07-18-up-until-a-few-minutes-ago-ive-never-considered-the-fact-t.md
 inFeed: true
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a688c441-ddcd-4e00-9431-f3fb2d68fc4e.jpg
 author: []
-dateModified: '2016-07-18T18:49:33.410Z'
+dateModified: '2016-07-18T18:51:12.778Z'
 title: None of it comes with us.
 description: There never was a better day.
 inNav: true
 starred: false
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a688c441-ddcd-4e00-9431-f3fb2d68fc4e.jpg
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a688c441-ddcd-4e00-9431-f3fb2d68fc4e.jpg)
-
 # **None of it comes with us.**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6b43b53-ea4e-4c0c-a781-214853687b5f.jpg)
 
 There never was a better day.
 
