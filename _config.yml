@@ -1,14 +1,26 @@
-layout_spectrum: 0.03999131568707526
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.598591688554734
 color:
-  brandStrength: 0.15797779243439436
-  lightness: 0.2881656317040324
   saturation: 0.6084942526649684
-  rhythmicContrast: 0.15379553497768939
+  brandStrength: 0.1579777924343944
+  rhythmicContrast: 0.1537955349776894
   brandColors:
     - '#334D5C'
     - '#45B29D'
     - '#EFC94C'
     - '#E27A3F'
     - '#DF5A49'
+  lightness: 0.2881656317040324
+layout_spectrum: 1
 name: Who Ever You Are
