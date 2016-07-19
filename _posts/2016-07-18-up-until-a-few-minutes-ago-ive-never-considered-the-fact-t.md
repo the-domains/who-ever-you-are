@@ -1,27 +1,18 @@
 ---
-description: None of it comes with us.
-dateModified: '2016-07-18T18:48:01.588Z'
-datePublished: '2016-07-18T18:48:07.859Z'
-title: >-
-  Up until a few minutes ago, I’ve never considered the fact that everything I
-  have done, is exactly what I was supposed to do, both backwards and forwards
-  in time, each instant moving pieces onto the next, fitting the puzzle of life
-  together on a whim, exploding my unrealized desires into fiery plumes of
-  experience while at the same time grinding every other possible outcome
-  derived from thought into the smallest of future possibilities, like
-  courageously small dust particles of memory, held together only by each other,
-  homogeneously smashed together under the universe’s pestle inside the mortar
-  of time.
-author: []
-inNav: true
-inFeed: true
-starred: false
+datePublished: '2016-07-18T18:49:22.726Z'
 sourcePath: >-
   _posts/2016-07-18-up-until-a-few-minutes-ago-ive-never-considered-the-fact-t.md
+inFeed: true
+author: []
+dateModified: '2016-07-18T18:49:17.575Z'
+title: None of it comes with us.
+description: There never was a better day.
+inNav: true
+starred: false
 _type: Blurb
 
 ---
-**None of it comes with us.**
+# **None of it comes with us.**
 
 There never was a better day.
 
@@ -49,4 +40,4 @@ Both have carved a life out of the unknowable future into the design of their ch
 
 The emotions, experience, solitude, joy, and successes, have all been building blocks. Neither would be the same without having done everything they've done. Both are content. Both know satisfaction. Both are fulfilled.
 
-### **Up until a few minutes ago, I've never considered the fact that everything I have done, is exactly what I was supposed to do, both backwards and forwards in time, each instant moving pieces onto the next, fitting the puzzle of life together on a whim, exploding my unrealized desires into fiery plumes of experience while at the same time grinding every other possible outcome derived from thought into the smallest of future possibilities, like courageously small dust particles of memory, held together only by each other, homogeneously smashed together under the universe's pestle inside the mortar of time.**
+Up until a few minutes ago, I've never considered the fact that everything I have done, is exactly what I was supposed to do, both backwards and forwards in time, each instant moving pieces onto the next, fitting the puzzle of life together on a whim, exploding my unrealized desires into fiery plumes of experience while at the same time grinding every other possible outcome derived from thought into the smallest of future possibilities, like courageously small dust particles of memory, held together only by each other, homogeneously smashed together under the universe's pestle inside the mortar of time.
