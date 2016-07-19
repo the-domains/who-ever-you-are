@@ -1,26 +1,14 @@
+layout_spectrum: 0.21534513123333454
+typography_spectrum: 0.563288290752098
 color:
-  saturation: 0.6084942526649684
-  brandStrength: 0.1579777924343944
-  rhythmicContrast: 0.1537955349776894
+  brandStrength: 0.9651584040839225
+  lightness: 0.7900910715106875
+  saturation: 0.4951751932967454
+  rhythmicContrast: 0.005610611522570252
   brandColors:
-    - '#334D5C'
-    - '#45B29D'
-    - '#EFC94C'
-    - '#E27A3F'
-    - '#DF5A49'
-  lightness: 0.2881656317040324
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-layout_spectrum: 0.1762226
-typography_spectrum: 0.5674536
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
 name: Who Ever You Are
