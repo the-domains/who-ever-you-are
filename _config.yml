@@ -1,14 +1,14 @@
-layout_spectrum: 0.21534513123333454
-typography_spectrum: 0.563288290752098
+layout_spectrum: 0.03999131568707526
+typography_spectrum: 0.598591688554734
 color:
-  brandStrength: 0.9651584040839225
-  lightness: 0.7900910715106875
-  saturation: 0.4951751932967454
-  rhythmicContrast: 0.005610611522570252
+  brandStrength: 0.15797779243439436
+  lightness: 0.2881656317040324
+  saturation: 0.6084942526649684
+  rhythmicContrast: 0.15379553497768939
   brandColors:
-    - '#F9E4AD'
-    - '#E6B098'
-    - '#CC4452'
-    - '#723147'
-    - '#31152B'
+    - '#334D5C'
+    - '#45B29D'
+    - '#EFC94C'
+    - '#E27A3F'
+    - '#DF5A49'
 name: Who Ever You Are
